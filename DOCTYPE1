@@ -23,10 +23,6 @@
 
   const CONTENT_PLACEHOLDER = "content-placeholder";
 
-  // TODO: confirm if i18n needed
-  const contentPlaceholderTemplate = `
-    <div class="tw-p-6 dark:tw-bg-moon-900">
-      <div class="tw-flex tw-flex-col tw-gap-4">
     
           <div class="tw-flex">
             <div class="tw-flex-shrink-0">
