@@ -39,9 +39,3 @@
                              hover:tw-text-primary-500 hover:tw-underline dark:tw-text-slate-50 dark:hover:tw-text-primary-400"
                       onclick="javascript:openPrefCenter();">Cookie Preferences</span>.
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  `;
