@@ -17,7 +17,7 @@
   const TW_DOMAIN = "platform.twitter.com";
   const TW_CONTAINER = "twitter-tweet";
 
-  const CONTENT_PLACEHOLDER = "content-placeholder";
+
 
     
           <div class="tw-flex">
