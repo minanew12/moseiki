@@ -13,10 +13,6 @@
 <script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" defer data-domain-script="49e8a847-f2c7-4b58-a340-caf0924064fe"></script>
 <script type="text/javascript">
   const STRICT_COOKIE = "C0001";
-  const YT_DOMAIN = "www.youtube.com";
-  const TW_DOMAIN = "platform.twitter.com";
-  const TW_CONTAINER = "twitter-tweet";
-
 
 
     
